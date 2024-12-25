@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/baitap/vá/ltm-tcp-server/src/run/ServerRun.java</file>
+            <file>file:/D:/baitap/vá/ltm-tcp-server/src/connection/DatabaseConnection.java</file>
+            <file>file:/D:/baitap/vá/ltm-tcp-server/src/service/ClientManager.java</file>
+            <file>file:/D:/baitap/vá/ltm-tcp-server/src/helper/RandomString.java</file>
+            <file>file:/D:/baitap/vá/ltm-tcp-server/src/controller/UserController.java</file>
+            <file>file:/D:/baitap/vá/ltm-tcp-server/src/service/Client.java</file>
+            <file>file:/D:/baitap/vá/ltm-tcp-server/src/view/ServerView.java</file>
+            <file>file:/D:/baitap/vá/ltm-tcp-server/src/connection/db.sql</file>
+            <file>file:/D:/baitap/vá/ltm-tcp-server/src/service/RoomManager.java</file>
+            <file>file:/D:/baitap/vá/ltm-tcp-server/src/model/UserModel.java</file>
+            <file>file:/D:/baitap/vá/ltm-tcp-server/src/helper/Question.java</file>
+        </group>
+    </open-files>
+</project-private>
